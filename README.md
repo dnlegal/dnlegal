@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dnlegal
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Matrix
 - 📫 How to reach me ...
 
 <!---
